@@ -1,0 +1,3 @@
+{
+ "extends": "@canedo-ui/eslint-config"
+}
