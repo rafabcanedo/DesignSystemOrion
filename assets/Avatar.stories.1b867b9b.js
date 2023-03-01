@@ -1,0 +1,2 @@
+import{A as t}from"./index.b74e4a05.js";import"./index.fef02cfe.js";import"./iframe.0499dec2.js";import"./index.678a133c.js";import"./jsx-runtime.f58c7ac0.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rafabcanedo.png",alt:"Rafael Canedo"},argTypes:{src:{control:{type:"text"}}}},e={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{e as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.1b867b9b.js.map
